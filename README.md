@@ -1,4 +1,4 @@
-# Skill Factory Project 8 (HW-03)
+# Skill Factory Project 9.8.7 (HW-03)
 
 1. Создаём образ:
 
